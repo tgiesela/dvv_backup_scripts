@@ -4,8 +4,8 @@
 # Modify the variables below to your need
 
 # Mysql Credentials
-MyUSER="root"
-MyPASS="Devos_2010"
+MyUSER="<user>"
+MyPASS="<password>"
 MyHOST="localhost"
 
 # Owner of mysql backup dir
